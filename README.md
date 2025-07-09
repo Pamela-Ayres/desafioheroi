@@ -1,4 +1,4 @@
-# Desafio - Escrevendo as Classes de um Jogo
+# Desafio - Herói
 
 Este projeto contém uma implementação simples em JavaScript de uma classe `Heroi`, projetada para demonstrar conceitos básicos de Programação Orientada a Objetos (POO), como classes, construtores, propriedades e métodos.
 
